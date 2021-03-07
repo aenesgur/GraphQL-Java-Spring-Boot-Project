@@ -1,0 +1,4 @@
+extend type Query{
+    getListingById(id: ID!): Listing!
+    getListings(skip: Int, take: Int): [Listing!]!
+}

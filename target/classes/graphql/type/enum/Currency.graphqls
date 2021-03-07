@@ -1,0 +1,6 @@
+# Supported currencies
+enum Currency {
+    TRY
+    EUR
+    USD
+}

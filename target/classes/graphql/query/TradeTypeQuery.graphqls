@@ -1,0 +1,4 @@
+type Query{
+    getTradeTypeById(id: ID!): TradeType!
+    getTradeTypes(skip: Int, take: Int): [TradeType!]!
+}

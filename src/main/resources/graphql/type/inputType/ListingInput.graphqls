@@ -1,0 +1,7 @@
+input ListingInput {
+    title: String
+    description: String
+    price: Float!
+    currency: Currency!
+    tradeTypeId: ID!
+}

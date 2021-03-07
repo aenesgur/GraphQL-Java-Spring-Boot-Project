@@ -1,0 +1,5 @@
+type TradeType{
+    id: ID
+    name: String
+    createdAt: String
+}

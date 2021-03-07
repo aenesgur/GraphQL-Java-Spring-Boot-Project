@@ -1,0 +1,9 @@
+type Listing{
+    id: ID
+    title: String
+    description: String
+    price: Float
+    currency: Currency
+    createdAt: String
+    tradeType: TradeType
+}
