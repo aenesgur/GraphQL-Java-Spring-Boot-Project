@@ -4,6 +4,8 @@ There are two fields as Listing and Trade Type. While a listing will have only o
 Within the scope of the project, PostgreSQL  which is running on Docker, used for database. 
 Code First approach preffered.
 
+* Medium url: https://medium.com/emlakjet/integration-and-using-graphql-on-a-java-spring-boot-project-899f4c4edc53
+
 * run the  "docker-compose up -d" command in the "resources" folder and then run the application.
 * Playground url: http://localhost:8010/playground
 
